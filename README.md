@@ -1,7 +1,6 @@
 <h1 align="center">MahJava</h1>
 <p align="center"><strong>Weber State University Advanced Java OOP with GUI Final</strong>
 <br>MahJong puzzle game created in Java by Daniel Oldham</p>
-<br/>
 <h2>About</h2>
 This is the final assignment for WSU's course in Advanced Java Object-Oriented Programming with Graphical User Interface. The project is designed as a MahJong puzzle game, where the user must match together different tiles with the goal of removing all tiles from the board.
 
