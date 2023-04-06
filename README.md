@@ -11,7 +11,7 @@ This is the final assignment for WSU's course in Advanced Java Object-Oriented P
 
 <h2>Goals</h2>
 
-The project was created to demonstrate knowledge of Java GUI concepts and ability to solve logical design problems using OOP tools such as inheritance and polymorphism.
+The project was created to demonstrate knowledge of Java GUI concepts and the ability to solve logical design problems using OOP tools such as inheritance and polymorphism.
 
 <h2>Key learnings</h2>
 
